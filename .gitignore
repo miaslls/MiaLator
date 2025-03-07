@@ -22,3 +22,8 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Personal .md/.txt files
+_*.md
+_*.txt
+
